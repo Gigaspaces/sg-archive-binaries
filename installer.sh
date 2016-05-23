@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -Dfile=%1 -DpomFile=%2  -DrepositoryId=GigaSpaces-Repository -Durl=http://mvn-srv:8081/artifactory/libs-snapshot-local

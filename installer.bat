@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=%1 -DpomFile=%2 s3client:deploy

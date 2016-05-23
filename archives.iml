@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_5" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.case7514.v1:syn-test-giga-resource-1.0.0-SNAPSHOT-pu:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.case7514.v2:syn-test-giga-resource-1.0.0-SNAPSHOT-pu:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:stockAnalytics:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:stockAnalyticsFeeder:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:stockAnalyticsMirror:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:stockAnalyticsProcessor:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:stockAnalyticsSpace:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives.StockDemoFinal:StockDemo:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:case7551-frontend:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:customSecurityProcessor:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:feederPU:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:jpa-remoting-service:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-common-jpa:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-processor-jpa:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-routing:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-space-remote:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-space-remote-9:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-space:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-space-9:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-web-jpa:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:petclinic-9:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:processorPU:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:RemotingExceptionHandling:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:RemotingServicePu:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-jetty-config:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-jetty-config-9:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-nopuxml:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-space-postprocessing:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-space-remote:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-space:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:servlet-9:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:session-test-embedded:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:session-test-remote:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:simpleFaultyStatelessPu:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:simpleServiceMonitors:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:simpleSleepAfterDeploy:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:simpleSleepBeforeUndeploy:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:simpleStatelessPu:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:StockDemo:war:3.0.0" level="project" />
+    <orderEntry type="library" name="Maven: com.gigaspaces.quality.sgtest.apps.archives:webssl:war:3.0.0" level="project" />
+  </component>
+</module>
